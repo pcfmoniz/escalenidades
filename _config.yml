@@ -2,7 +2,7 @@ title: "Escalenidades*"
 description: "~ música com expressão de género ~"
 email:
 timezone: UTC
-baseurl: ""
+baseurl: "/escalenidades"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
